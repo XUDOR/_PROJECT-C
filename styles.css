@@ -15,7 +15,7 @@ body {
 /* Header styles */
 header {
   background-color: #F2CB0A;
-  color: white;
+  color: #BC8A1B;
   padding: 1rem;
   
   text-align: left;
@@ -79,7 +79,7 @@ main {
 .grid-item {
   background-color: #ecf0f1;
   padding: 2rem;
-  border-radius: 8px;
+  
   min-height: 200px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   transition: transform 0.3s ease;

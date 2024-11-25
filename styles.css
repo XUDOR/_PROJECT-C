@@ -11,6 +11,7 @@ body {
   display: flex;
   flex-direction: column;
   background-color: #20232A;
+  color: #FFFFFA;
 }
 
 /* Header styles */
@@ -78,7 +79,7 @@ main {
 }
 
 .grid-item {
-  background-color: #ecf0f1;
+  background-color: #444340;
   padding: 2rem;
   min-height: 200px;
  
@@ -94,7 +95,7 @@ footer {
   background-color: #F2CB0A;
   color: #C69A0C;
   font-size: 1em;
-  padding: 1rem;
+  padding: .7rem;
   text-align: right;
   position: sticky;
   bottom: 0;

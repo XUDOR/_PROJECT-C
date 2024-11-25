@@ -26,6 +26,7 @@ h1 {
 }
 
 .nav-menu {
+  margin-top: .5em;
   padding: 1rem;
   background-color: #C69A0C;
 }
@@ -91,7 +92,7 @@ main {
 /* Footer styles */
 footer {
   background-color: #F2CB0A;
-  color: white;
+  color: #C69A0C;
   font-size: 1em;
   padding: 1rem;
   text-align: right;

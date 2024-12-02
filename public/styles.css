@@ -83,12 +83,10 @@ main {
   padding: 2rem;
   min-height: 200px;
  
-  transition: transform 0.3s ease;
+  
 }
 
-.grid-item:hover {
-  transform: translateY(-5px);
-}
+
 
 /* Footer styles */
 footer {

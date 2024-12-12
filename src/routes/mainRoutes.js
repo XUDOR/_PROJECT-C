@@ -17,12 +17,13 @@ const metrics = {
 // ------------------- API STATUS ROUTE ------------------- //
 
 router.get('/api/status', (req, res) => {
-    res.json({
-        status: 'active',
-        version: '1.0',
-        message: 'Project C (Metrics Console) is running'
-    });
+  res.json({
+      status: 'active',
+      version: '1.0',
+      message: 'Project C (Metrics Console) is running'
+  });
 });
+
 
 // ------------------- LOGGING ROUTES ------------------- //
 
